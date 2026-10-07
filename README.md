@@ -7,3 +7,5 @@ Para executar os testes com Node.js:
 ```sh
 node --test
 ```
+
+Ensaio de retomada da publicação e rollback, versão temporária 2.
